@@ -4,9 +4,7 @@ MultiImagemixed
 Introduction
 ------------
 
-This repository contains the R Package to implement the methodology described in the paper
-
--  *Modeling multivariate age-related imaging variableswith dependence* 
+This repository contains the R Package to implement the methodology described in the paper *"Modeling multivariate age-related imaging variableswith dependence"*, which is submitted to xxxx. 
 
 Installation
 ------------
