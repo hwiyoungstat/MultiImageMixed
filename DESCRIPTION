@@ -1,0 +1,13 @@
+Package: MultiImageMixed
+Type: Package
+Title: Modeling Multivariate Age-related Imaging Variables with dependencies
+Version: 0.1.0
+Author: Hwiyoung Lee
+Maintainer: Hwiyoung Lee <hwiyoung.lee@somumaryland.edu>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+Imports: splines
+LazyData: true
+RoxygenNote: 7.1.2
